@@ -1,4 +1,4 @@
-### Palapala | https://palalpala.xyz
+### Palapala | https://www.palapala.xyz/
 
 #### One Click Hosting of your Images
 
