@@ -14,5 +14,7 @@
 ```
 
 * Get your **_api_key_** from [me](https://twitter.com/yashhdixit).
-* Install the package using: ```npm i palapala```
+* Install the package using: ```npm i -g palapala```
 That's all you need to do. Enter the path of your file and get a hosted link. 
+
+Package works well with powershell, drag and drop your image to get path.  

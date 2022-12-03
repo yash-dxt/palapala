@@ -91,7 +91,7 @@ async function main() {
         process.exit(0);
     }
 
-    console.log(chalk.bgCyan("\nHere's the link: "), `https://palapala.xyz/${link_id}`, '\n');
+    console.log(chalk.bgCyan("\nHere's the link:"), `https://img.palapala.xyz/${link_id}`, '\n');
     process.exit(0)
 }
 
